@@ -1,0 +1,1 @@
+RecipeGPT is a web-based intelligent recipe recommendation system where users can input available ingredients and get personalized recipe suggestions. It combines a clean, responsive UI with backend intelligence to deliver interactive and user-friendly food discovery.
